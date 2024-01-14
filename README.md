@@ -15,9 +15,13 @@
 <h2 align="left"> Features </h2>
 
 > *LIST OF FEATURES: (STORE OWNER SIDE)*
+
 > *LIST OF FEATURES: (CLIENT SIDE)*
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<p style="text-align: center"> <img src="Florique/flo.png"> </p>
+<p align="center">
+  <img src="https://github.com/itsamaso/Florique/blob/main/flo.png">
+</p>
+
 
