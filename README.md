@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/itsamaso/Florique/blob/main/flo.png">
+</p>
+
 # FLORIQUE Flower Shop Application
 
 Welcome to FLORIQUE, a cutting-edge flower shop application designed to revolutionize the way customers browse, customize, and purchase floral arrangements, while providing shop owners with powerful tools for inventory management, order processing, and customer engagement.
@@ -125,11 +129,5 @@ Understanding the use case diagram is crucial for grasping the scope of FLORIQUE
 ### Acknowledgements
 Thanks to all team members and mentors who contributed to this project. \
 Special thanks to Material-UI for their fantastic UI components.
-
-
-
-<p align="center">
-  <img src="https://github.com/itsamaso/Florique/blob/main/flo.png">
-</p>
 
 
