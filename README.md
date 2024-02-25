@@ -126,6 +126,7 @@ Understanding the use case diagram is crucial for grasping the scope of FLORIQUE
 
 ### Acknowledgements
 Thanks to all team members.
+
 Special thanks to Material-UI for their fantastic UI components.
 
 
