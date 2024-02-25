@@ -2,7 +2,7 @@
   <img src="https://github.com/itsamaso/Florique/blob/main/flo.png">
 </p>
 
-# FLORIQUE Flower Shop Application
+<h1 align="center"> FLORIQUE | Web Application </h1>
 
 Welcome to FLORIQUE, a cutting-edge flower shop application designed to revolutionize the way customers browse, customize, and purchase floral arrangements, while providing shop owners with powerful tools for inventory management, order processing, and customer engagement.
 
