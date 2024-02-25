@@ -18,34 +18,33 @@ Welcome to FLORIQUE, a cutting-edge flower shop application designed to revoluti
 - [Use Case Diagram](#use-case-diagram)
 - [Team](#team)
 - [Acknowledgements](#acknowledgements)
-- [License](#license)
 
 ## Project Overview
 FLORIQUE aims to address the challenges faced by both flower shop customers and owners. For customers, it offers an intuitive platform for creating custom bouquets and efficient order processing. For shop owners, it provides robust inventory and order management capabilities.
 
 ## Features
 - **Customer Facing:**
-  - Browse flowers and pre-designed bouquets
-  - Customize bouquets with a drag-and-drop interface
-  - User authentication and profile management
-  - Order tracking and history
+  - Browse flowers and pre-designed bouquets.
+  - Customize bouquets with a drag-and-drop interface.
+  - User authentication and profile management.
+  - Order tracking and history.
 
 - **Shop Owner Facing:**
-  - Inventory management with real-time updates
-  - Order management dashboard
-  - Promotional tools and customer engagement
-  - Sales analytics and reporting
+  - Inventory management with real-time updates.
+  - Order management dashboard.
+  - Promotional tools and customer engagement.
+  - Sales analytics and reporting.
 
 ## Technology Stack
-- Frontend: React, Redux for state management, Material-UI for component styling
-- Backend: Node.js with Express, Firebase for authentication and database
-- Other Tools: Git for version control, Jest for testing
+- Frontend: React, Redux for state management, Material-UI for component styling.
+- Backend: JavaScript with Express, Firebase for authentication and database.
+- Other Tools: Git for version control, Jest for testing.
 
 ## Getting Started
 
 ### Prerequisites
 Ensure you have the following installed:
-- Node.js (v14 or later)
+- JavaScript
 - npm (v6 or later)
 - Git
 
@@ -116,18 +115,17 @@ The diagram illustrates the interactions between two main types of users – cus
 ### Significance
 Understanding the use case diagram is crucial for grasping the scope of FLORIQUE's functionality and its user-centric approach. It serves as a roadmap for developers and contributors, providing insights into the application's core features and user interactions.
 
- ![Screenshot (65)](https://github.com/JShivode/FlowerShop/assets/93088012/8796719f-9621-4e2e-8044-f113419d8770)
-
+ ![Screenshot (65)](https://github.com/itsamaso/Florique/blob/master/Florique%20Use%20Case%20Diagram.jpg)
 
 
 ### Team
-- Alice Johnson - Project Manager
-- Bob Smith - Lead Developer
-- Carol Lee - UI/UX Designer
-- David Brown - Backend Developer
+- Osama Ghaliah - Project Manager
+- Jode Shibli - Lead Developer
+- Naseem Atrash - UI/UX Designer
+- Hamad Tarabeih - Backend Developer
 
 ### Acknowledgements
-Thanks to all team members and mentors who contributed to this project. \
+Thanks to all team members.
 Special thanks to Material-UI for their fantastic UI components.
 
 
