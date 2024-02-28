@@ -595,7 +595,6 @@ const postFlowersToFirebase = async (flowers, wrapper, shopId, imageData) => {
     if (!Array.isArray(flowers) || flowers.length === 0) {
       throw new Error("Invalid input for flowers");
     }
-
     if (!wrapper) {
       throw new Error("Invalid input for wrapper");
     }
@@ -642,9 +641,7 @@ const postFlowersToFirebase = async (flowers, wrapper, shopId, imageData) => {
     });
 
     return flowerArrangementRef;
-  } 
-  
-  catch (error) {
+  } catch (error) {
     console.error("Error posting flower arrangement and wrapper: ", error);
     throw error;
   }
@@ -687,29 +684,27 @@ const fetchBouquetOrders = async () => {
 
     console.log("Fetched bouquet orders successfully:", filteredOrders);
     return filteredOrders;
-  } 
-  
-  catch (error) {
+  } catch (error) {
     console.error("Error fetching bouquet orders:", error);
     return [];
   }
 };
 
-export {
+export { 
   fetchFlowersForShopOwner,
-  getPaymentDetails,
-  signInClient,
-  fetchShopOwners,
-  getClientName,
-  createOrder,
-  fetchShopData ,
-  fetchCustomerData,
-  saveCreditCardToFirebase,
-  getCustomerCoupons,
-  fetchCustomerOrders,
-  RateShopOwner,
-  postApplication,
-  updateClient, 
-  postFlowersToFirebase,
-  fetchBouquetOrders
-};
+   getPaymentDetails,
+   signInClient,
+    fetchShopOwners,
+     getClientName,
+      createOrder,
+      fetchShopData ,
+      fetchCustomerData,
+      saveCreditCardToFirebase,
+      getCustomerCoupons,
+      fetchCustomerOrders,
+      RateShopOwner,
+      postApplication,
+      updateClient
+      , postFlowersToFirebase,
+      fetchBouquetOrders
+    };
