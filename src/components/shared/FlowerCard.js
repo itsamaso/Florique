@@ -44,8 +44,8 @@ const FlowerCard = ({ flower, onAddToCart, onEdit, onDelete }) => {
       </CardContent>
       <CardActions>
         {onAddToCart && <Button size="small" onClick={() => onAddToCart(flower)}>Add to Cart</Button>}
-        <Button size="small" onClick={() => onEdit(flower)}>Edit</Button>
-        <Button size="small" onClick={() => onDelete(flower.id)} color="primary">Delete</Button>
+        <Button size="small"     variant="contained" color="primary" onClick={() => onEdit(flower)}>Edit</Button>
+        <Button size="small"     variant="contained" color="warning" onClick={() => onDelete(flower.id)}>Delete</Button>
       </CardActions>
     </Card>
   );
