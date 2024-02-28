@@ -85,9 +85,8 @@ To provide a clearer understanding of FLORIQUE's capabilities and user experienc
 ### Purpose and Use:
 This video serves as a comprehensive guide for new users and interested stakeholders to understand the value FLORIQUE brings to the flower shopping and selling experience. It is also an excellent resource for potential contributors looking to familiarize themselves with the application's functionality and design philosophy.
 
-[Watch the FLORIQUE System Demonstration Video Here](#)
+[Watch the FLORIQUE System Demonstration Video Here]https://www.youtube.com/watch?v=NfDBL16OOYQ
 
-Please replace the hash (#) with the actual URL to your video hosted on a platform like YouTube, Vimeo, or your website.
 
 We encourage you to watch the video to gain insights into FLORIQUE's user interface, features, and how it simplifies the flower shopping process while providing robust tools for shop owners to manage their business effectively.
 
