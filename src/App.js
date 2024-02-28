@@ -17,7 +17,6 @@ import CheckoutPage from './components/pages/Customer/CustomerCheckout/CheckoutP
 import CustomerProfile from './components/pages/Customer/CustomerProfile/CustomerProfile';
 import ImageStack from './components/buildBouquet/ImageStack';
 import { AuthProvider } from './Services/AuthProvider';
-
 const App = () => {
   return (
     <Router>
