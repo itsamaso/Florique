@@ -118,10 +118,10 @@ Understanding the use case diagram is crucial for grasping the scope of FLORIQUE
 
 
 ### Team
-- Osama Ghaliah - Project Manager
-- Jode Shibli - Lead Developer
-- Naseem Atrash - UI/UX Designer
-- Hamad Tarabeih - Backend Developer
+- Osama Ghaliah - Shop Owners Back-End
+- Jode Shibli - Customers Back-End
+- Naseem Atrash - Customers Front-End
+- Hamad Tarabeih - Shop Owners Front-End
 
 ### Acknowledgements
 Thanks to all team members.
