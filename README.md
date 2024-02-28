@@ -51,7 +51,7 @@ Ensure you have the following installed:
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/JShivode/Florique.git
+   git clone https://github.com/itsamaso/Florique.git
 
 2.  Install NPM packages:
     ```sh
