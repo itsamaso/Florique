@@ -66,7 +66,12 @@ const getCurrentDayName = () => {
     break;
     default:
 
-        filteredShops=shops;
+    if (searchQuery === '') {
+      filteredShops = shops;
+    }
+    else {
+      filteredShops = shops.filter(shop => shop.storeName.toLowerCase().includes(searchQuery));
+        }
       // No sorting or a default sorting mechanism
   }
 
